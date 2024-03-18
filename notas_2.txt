@@ -1,0 +1,6 @@
+comandos git
+
+siempre se inicia con "git status" para mostrar los archivos que sufrieron cambios
+subir al stages los archivos o el archivo:
+--> git add . son los archivos, los agarra todos y los manda al stages 
+--> git add "nombre del archivo" solo se subira el archivo mencionado
